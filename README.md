@@ -1,6 +1,6 @@
 # CRUD Operations with react
-# POST
-# GET
-# PUT
-# DELETE
+## POST
+## GET
+## PUT
+## DELETE
 
